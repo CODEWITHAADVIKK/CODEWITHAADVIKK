@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔥 IMPORTANT (this fixes your error)
+  contents: write
 
 jobs:
   build:
@@ -21,6 +21,6 @@ jobs:
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
+          target_branch: output   # ✅ FIXED
           build_dir: dist
-          github_token: ${{ secrets.GITHUB_TOKEN }}   # 🔥 FIX
+          github_token: ${{ secrets.GITHUB_TOKEN }}
