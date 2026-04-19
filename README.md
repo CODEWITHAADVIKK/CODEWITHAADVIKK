@@ -37,14 +37,14 @@
 
 ### 🕸️ Skill Progress Web Graph
 <div align="center">
-  <img src="https://quickchart.io/chart?w=500&h=400&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22C%2B%2B%22%2C%22Problem%20Solving%22%2C%22DSA%22%2C%22Web%20Development%22%2C%22JavaScript%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B80%2C75%2C65%2C55%2C50%5D%2C%22backgroundColor%22%3A%22rgba%280%2C%20255%2C%20170%2C%200.2%29%22%2C%22borderColor%22%3A%22rgba%280%2C%20255%2C%20170%2C%201%29%22%2C%22pointBackgroundColor%22%3A%22rgba%280%2C%20255%2C%20170%2C%201%29%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22gridLines%22%3A%7B%22color%22%3A%22rgba%28255%2C%20255%2C%20255%2C%200.2%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28255%2C%20255%2C%20255%2C%200.2%29%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%2300ffaa%22%2C%22fontSize%22%3A14%2C%22fontStyle%22%3A%22bold%22%2C%22fontFamily%22%3A%22monospace%22%7D%2C%22ticks%22%3A%7B%22display%22%3Afalse%2C%22min%22%3A0%2C%22max%22%3A100%7D%7D%7D%7D" alt="Skill Radar Chart" />
+  <img src="https://quickchart.io/chart?w=500&h=400&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Java%22%2C%22Problem%20Solving%22%2C%22DSA%22%2C%22Web%20Development%22%2C%22JavaScript%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B80%2C75%2C65%2C55%2C50%5D%2C%22backgroundColor%22%3A%22rgba%280%2C%20255%2C%20170%2C%200.2%29%22%2C%22borderColor%22%3A%22rgba%280%2C%20255%2C%20170%2C%201%29%22%2C%22pointBackgroundColor%22%3A%22rgba%280%2C%20255%2C%20170%2C%201%29%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22gridLines%22%3A%7B%22color%22%3A%22rgba%28255%2C%20255%2C%20255%2C%200.2%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28255%2C%20255%2C%20255%2C%200.2%29%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%2300ffaa%22%2C%22fontSize%22%3A14%2C%22fontStyle%22%3A%22bold%22%2C%22fontFamily%22%3A%22monospace%22%7D%2C%22ticks%22%3A%7B%22display%22%3Afalse%2C%22min%22%3A0%2C%22max%22%3A100%7D%7D%7D%7D" alt="Skill Radar Chart" width="300" />
 </div>
 
 ---
 
 ### ⚔️ Tech Arsenal
 <div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
