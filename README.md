@@ -28,10 +28,10 @@
 
 ### 🧬 Player Bio
 > **System Log:** Executing startup sequence... Success. Loading user profile...
-- 🔭 Passionate about **DSA, Web Development, and Software Engineering**.
-- 🌱 Currently leveling up in **React** and **Node.js**.
-- 🎯 Main Objective: **Become a Software Developer at Microsoft**.
-- ⚡ Enjoyment protocol: **Building projects, solving problems, and continuous learning**.
+- Passionate about **DSA, Web Development, and Software Engineering**.
+- Currently leveling up in **React** and **Node.js**.
+- Main Objective: **Become a Software Developer at Microsoft**.
+- Enjoyment protocol: **Building projects, solving problems, and continuous learning**.
 
 ---
 
