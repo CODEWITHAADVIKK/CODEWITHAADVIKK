@@ -3,7 +3,7 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Krishna+Tomar;Aspiring+Software+Developer;Code+Warrior;Welcome+to+my+Dashboard" alt="Typing Animation" />
 
 <p>
-  <b>🚀 Aspiring Software Developer | Code Warrior</b><br>
+  <b> Aspiring Software Developer | Code Warrior</b><br>
   <i>BTech Computer Science Student | 📍 India 🇮🇳</i>
 </p>
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 🧬 Player Bio
+###  Player Bio
 > **System Log:** Executing startup sequence... Success. Loading user profile...
 - Passionate about **DSA, Web Development, and Software Engineering**.
 - Currently leveling up in **React** and **Node.js**.
@@ -42,7 +42,7 @@
 
 ---
 
-### ⚔️ Tech Arsenal
+###  Tech Arsenal
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -88,18 +88,18 @@
 
 ---
 
-### 🏆 Trophies & Milestones
+### Milestones
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CODEWITHAADVIKK&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
-### 🎖️ Achievements Unlocked
-- 🏅 **Ideathon Participant:** Brainstormed and pitched innovative tech solutions.
-- 🎤 **TED Talk Event Attendee:** Expanded knowledge horizons and networked with industry leaders.
+### Achievements Unlocked
+-  **Ideathon Participant:** Brainstormed and pitched innovative tech solutions.
+-  **TED Talk Event Attendee:** Expanded knowledge horizons and networked with industry leaders.
 
 ---
 
-### 🚀 Projects Interface
+### Projects Interface
 <div align="center">
   <p>Exploring the boundaries of code by building dynamic and real-world scalable applications.</p>
   <a href="https://github.com/CODEWITHAADVIKK?tab=repositories">
@@ -109,10 +109,10 @@
 
 ---
 
-### 🎯 Current Quests & Objectives
-- ⚔️ **Quest 1:** Master Data Structures and Algorithms `[In Progress...]`
-- 🛠️ **Quest 2:** Build and deploy real-world scalable applications `[In Progress...]`
-- 👑 **Main Boss:** Crack a top product-based company (Microsoft) `[Awaiting Encounter...]`
+###  Current Quests & Objectives
+-  **Quest 1:** Master Data Structures and Algorithms `[In Progress...]`
+-  **Quest 2:** Build and deploy real-world scalable applications `[In Progress...]`
+-  **Main Boss:** Crack a top product-based company (Microsoft) `[Awaiting Encounter...]`
 
 <br>
 
